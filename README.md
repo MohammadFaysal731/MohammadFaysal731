@@ -7,7 +7,7 @@ I enjoy learning new languages and frameworks like React Native, Python, Django,
 mohammadfaysal731@gmail.com
 01753730986
 
-Skills: HTML5 / CSS3 / JS / ES6 / NodeJS / Express / MongoDB / REST API / React JS /  React Router / React Query / React Native / Next JS / TypeScript / Redux /Firebase / Stripe JS / Swiper JS / Bootstrap / React Bootstrap / Tailwind CSS / DasiyUI / Material UI.
+Skills: HTML5 / CSS3 / JS / ES6 / NodeJS / Express / MongoDB / REST API / React JS /  React Router / React Query / React Native / Next JS / TypeScript / Firebase / Stripe JS / Swiper JS / Bootstrap / React Bootstrap / Tailwind CSS / DasiyUI .
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Reacct 

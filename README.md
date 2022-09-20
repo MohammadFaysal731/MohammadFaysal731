@@ -6,4 +6,4 @@ Comfortable: Node JS, MongoDB, Express JS, React Hook Form And Payment Method.
 Familiar: With React Native, React Query, Nextjs And Typescript.
 Tools: GitHub, Firebase, Netlify, Heroku, VS Code, And Chrome Dev Tool
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad Faysal)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadFaysal731)](https://github.com/anuraghazra/github-readme-stats)

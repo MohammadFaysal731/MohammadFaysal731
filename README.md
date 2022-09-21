@@ -1,7 +1,4 @@
-<div align="center">
-  <img  alt="Coding" width="600"src="https://pbs.twimg.com/profile_banners/1561383014311264256/1663761788/600x200">
-  </div>
-
+(https://pbs.twimg.com/profile_banners/1561383014311264256/1663761788/600x200)
 <h1 align="center">Hi 👋, I'm Mohammad Faysal</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 

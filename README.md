@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="500" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadfaysal731&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadfaysal731" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadfaysal731" alt="mohammadfaysal731" /></a> </p>
@@ -32,11 +31,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mohammadfaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohammadfaysal" height="30" width="40" /></a>
+<a href="https://dev.to/@mohammadfaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@mohammadfaysal" height="30" width="40" /></a>
 <a href="https://twitter.com/@mohamma36007811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohamma36007811" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammadfaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadfaysal" height="30" width="40" /></a>
-<a href="https://fb.com/mohammadfaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammadfaysal" height="30" width="40" /></a>
-<a href="https://dribbble.com/mohammadfaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mohammadfaysal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@mohammadfaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@mohammadfaysal" height="30" width="40" /></a>
+<a href="https://fb.com/@mohammadfaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@mohammadfaysal" height="30" width="40" /></a>
+<a href="https://dribbble.com/@mohammadfaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="@mohammadfaysal" height="30" width="40" /></a>
 <a href="https://discord.gg/MohammadFaysal#1863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MohammadFaysal#1863" height="30" width="40" /></a>
 </p>
 

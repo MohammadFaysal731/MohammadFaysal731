@@ -1,5 +1,5 @@
 <div>
-  <img align="center" alt="Coding" width="500" src="https://pbs.twimg.com/profile_banners/1561383014311264256/1663761788/600x200">
+  <img align="center" alt="Coding" width="700" height="700" src="https://pbs.twimg.com/profile_banners/1561383014311264256/1663761788/600x200">
   </div>
 
 <h1 align="center">Hi 👋, I'm Mohammad Faysal</h1>

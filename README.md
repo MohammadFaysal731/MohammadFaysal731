@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://pbs.twimg.com/profile_banners/1561383014311264256/1663761788/600x200))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohammad Faysal</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 

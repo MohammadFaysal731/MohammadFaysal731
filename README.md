@@ -1,19 +1,18 @@
-
 <h1 align="center">Hi 👋, I'm Mohammad Faysal</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+<img align="right" alt="Coding" width="500" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadfaysal731&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadfaysal731" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadfaysal731" alt="mohammadfaysal731" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mohammad faysal" target="blank"><img src="https://img.shields.io/twitter/follow/mohammad faysal?logo=twitter&style=for-the-badge" alt="mohammad faysal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [The Delta Times](https://delta-times.netlify.app/)
 
 - 🌱 I’m currently learning **Rect**
 
-- 👯 I’m collaborate on this project [The Delta Times](https://delta-times.netlify.app/)
+- 👯 I’m collaborate on [The Delta Times](https://delta-times.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://mohammad-faysal.netlify.app/](https://mohammad-faysal.netlify.app/)
 
@@ -32,11 +31,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mohammadfaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohammadfaysal" height="30" width="40" /></a>
-<a href="https://twitter.com/mohammad faysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammad faysal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-faysal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-faysal/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100045990253742" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100045990253742" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/mohammad_faysal731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/mohammad_faysal731" height="30" width="40" /></a>
-<a href="https://discord.gg/Mohammad Faysal#1863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mohammad Faysal#1863" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammadfaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadfaysal" height="30" width="40" /></a>
+<a href="https://fb.com/mohammadfaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammadfaysal" height="30" width="40" /></a>
+<a href="https://dribbble.com/mohammadfaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mohammadfaysal" height="30" width="40" /></a>
+<a href="https://discord.gg/MohammadFaysal#1863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MohammadFaysal#1863" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

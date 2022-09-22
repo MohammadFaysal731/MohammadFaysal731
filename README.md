@@ -89,7 +89,7 @@
 </p>
 
 <p>
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadfaysal731&show_icons=true&locale=en" alt="mohammadfaysal731" />
+ &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohammadfaysal731&show_icons=true&locale=en" alt="mohammadfaysal731" />
   &nbsp;
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfaysal731&" alt="mohammadfaysal731" />
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfaysal731&" alt="mohammadfaysal731" />
 </p>

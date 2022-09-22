@@ -84,16 +84,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 
-<a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfaysal731&show_icons=true&locale=en&layout=compact"alt="mohammadfaysal731" />
-</a>
 <div>
  <a>
  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohammadfaysal731&show_icons=true&locale=en" alt="mohammadfaysal731" />
  </a>
+ <a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfaysal731&show_icons=true&locale=en&layout=compact"alt="mohammadfaysal731" />
+</a>
  </div>
  <a>
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfaysal731&" alt="mohammadfaysal731" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfaysal731&" alt="mohammadfaysal731" />
  </a>
  
 

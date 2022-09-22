@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mohammadfaysal731@gmail.com**
 
-- 📄 Know about my experiences <a href="h(https://drive.google.com/file/d/1oMrNYXOR1dGSrVBHNwEP7_3BzrfAH1GC/view?usp=sharing)" target="blank">[Resume]</a>  
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1oMrNYXOR1dGSrVBHNwEP7_3BzrfAH1GC/view?usp=sharing" target="blank">[Resume]</a>  
 
 
 <h3 align="left">Connect with me:</h3>

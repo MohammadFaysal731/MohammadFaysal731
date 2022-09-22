@@ -21,7 +21,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oMrNYXOR1dGSrVBHNwEP7_3BzrfAH1GC/view?usp=sharing](https://drive.google.com/file/d/1oMrNYXOR1dGSrVBHNwEP7_3BzrfAH1GC/view?usp=sharing)
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -83,7 +82,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
-
+ &nbsp;
  <a align="right">
   &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfaysal731&show_icons=true&locale=en&layout=compact"alt="mohammadfaysal731" />
 </a>

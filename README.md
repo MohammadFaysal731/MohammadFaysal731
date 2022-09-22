@@ -1,3 +1,14 @@
+(https://pbs.twimg.com/profile_banners/1561383014311264256/1663761788/600x200)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Mohammad Faysal</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>

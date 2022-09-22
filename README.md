@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadfaysal731" alt="mohammadfaysal731" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@mohamma36007811" target="blank"><img src="https://img.shields.io/twitter/follow/@mohamma36007811?logo=twitter&style=for-the-badge" alt="@mohamma36007811" /></a> </p>
-
 - 🔭 I’m currently working on [The Delta Times](https://delta-times.netlify.app/)
 
 - 🌱 I’m currently learning **Rect**

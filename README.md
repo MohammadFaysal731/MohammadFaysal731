@@ -92,8 +92,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfaysal731&show_icons=true&locale=en&layout=compact"alt="mohammadfaysal731" />
 </a>
  </div>
+ 
+ <p>
  <a>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfaysal731&" alt="mohammadfaysal731" />
  </a>
- 
+</p>
 

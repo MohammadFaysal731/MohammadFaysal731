@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mohammadfaysal731@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oMrNYXOR1dGSrVBHNwEP7_3BzrfAH1GC/view?usp=sharing](https://drive.google.com/file/d/1oMrNYXOR1dGSrVBHNwEP7_3BzrfAH1GC/view?usp=sharing)
+- 📄 Know about my experiences <a href="h(https://drive.google.com/file/d/1oMrNYXOR1dGSrVBHNwEP7_3BzrfAH1GC/view?usp=sharing)" target="blank">[Resume]</a>  
 
 
 <h3 align="left">Connect with me:</h3>
@@ -82,8 +82,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
-
- <br/>
+ <p>
+ </p>
  <p>
  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfaysal731&show_icons=true&locale=en&layout=compact" alt="mohammadfaysal731" /></a>
  </p>
